@@ -1,2 +1,3 @@
 # ideal-journey
-A new repositary
+Hi humans,
+syed here,I am a system engineer
